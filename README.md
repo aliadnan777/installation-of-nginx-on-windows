@@ -8,6 +8,7 @@
 * last thing activate it
 
 * thats all your theme is ready to use
+
 ### nginx installation
 
 * download stable version of nginx
@@ -24,6 +25,9 @@
 * `nginx -s reopen`
 * `nginx -s reload`
 * `nginx -s quit`
+
+
+
 ### wordpress installation
 * for installing wordpress on windows 
 * first you need to install wamp or xampp on your windows
