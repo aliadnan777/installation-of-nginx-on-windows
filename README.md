@@ -16,6 +16,7 @@
 * open the console of window and run following commands
 * `unzip nginx-1.8.0.zip`
 * `start nginx`
+* path of configration file `c:/nginx/conf/nginx.conf`
 
 * thats all
 * if you want to stop reload reopen or quit nginx
