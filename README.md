@@ -90,3 +90,4 @@ now open this file and edit database name, user name and password field blank an
 * http://premium.wpmudev.org/blog/wp-content/uploads/2014/06/htaccess-edit.jpg
 
 * Multisite should now be enabled and working on your WordPress site!
+
